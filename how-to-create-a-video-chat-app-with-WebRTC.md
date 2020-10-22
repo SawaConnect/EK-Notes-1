@@ -5,15 +5,17 @@
 ---
 
 `mkdir zoom-clone`
-`cd zoom-clone`
 
+`cd zoom-clone`
 ---
 
 `npm init -y`
 
 ### Install the dependency 
 `npm i express ejs socket.io`
+
 `npm i uuid`
+
 `npm i --save-dev node-mon`
 
 ---
