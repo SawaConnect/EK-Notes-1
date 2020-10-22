@@ -6,6 +6,7 @@
 
 `mkdir zoom-clone`
 `cd zoom-clone`
+
 ---
 
 `npm init -y`
